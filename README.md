@@ -3,6 +3,7 @@
 - The number inside brakets, for example `(18)`, is the referring slide number
 - The folders have the same name of slides pdf files
 - If some slides has been jumped, it means that the content is not relevant for the course **(in my opinion)**
+- The notes are based on 2025/2026 slides of Prof. Persia
 
 # Index
 
