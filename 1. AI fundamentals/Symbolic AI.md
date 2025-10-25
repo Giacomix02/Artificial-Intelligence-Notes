@@ -1,6 +1,6 @@
-# Forms  of AI
+# Forms of AI: `Symbolic AI`
 
-## Description: Symbolic AI
+## Description 
 `Symbolic AI` include all those **methodologies** for building AI systems which are based on:
 - `manipulating formal symbolic representations` of the underlying problems to be tackled (affrontati) and solved by the target AI system
 - and performing abstract reasoning over those symbols

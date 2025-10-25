@@ -1,6 +1,4 @@
-# Forms  of AI
-
-## Artificial General Intelligence vs. Narrow AI
+# Forms of AI: `Artificial General Intelligence vs. Narrow AI`
 
 Most **modern** forms of artificial intelligence are `application and domain-specific`, where the system is taught to perform a relatively `narrow task` (e.g., generate text or visual content, play chess, categorize an image, etc.).
 - This type of AI is often referred to as `“Narrow AI”`
