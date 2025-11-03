@@ -23,7 +23,9 @@ An **agent** is anything that can be viewed as `perceiving its environment` thro
 
 ## Non-agent-based AI tasks
 
-- 
+- Not always you have to use AI agents
+- The concept of agent rarely arises for single-decision problems in machine learning
+    - an example is that of **classification**, where one is trying to categorize an instance into one of many classes (e.g., categorize whether an image contains animals or not).
 
 ---
 Go to [INDEX](../README.md)
