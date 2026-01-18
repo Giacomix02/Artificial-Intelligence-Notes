@@ -4,7 +4,7 @@ would sidestep the philosophical vagueness of the question
 **“Can a machine think?”**
 
 ## How to pass
-To pass the test a computer wold need `at least` teh following capabilities>
+To pass the test a computer wold need `at least` teh following capabilities:
 
 - `natural language processing`: understand and generate human language
 - `knowladge representation`: storing and utilizing knowledge about the world
