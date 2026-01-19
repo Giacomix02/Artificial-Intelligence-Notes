@@ -6,6 +6,7 @@ The numbers are the slides number
 # 2 AI agents
 
 - What is and how works an intelligent agent? Make some examples (7)
+- Differences between Agent-based AI tasks and Non-agent-based AI tasks (from 12 to 13)
 - What is a rational agent? (15)
 - What PEAS mean? Make some examples (22)
 - Witch are the types of environments were an agent can be inside? (26)

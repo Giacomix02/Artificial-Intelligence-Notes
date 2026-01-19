@@ -18,5 +18,11 @@
     - [AI goals and subfields(116)](/1.%20AI%20fundamentals/AI%20goals%20and%20subfields.md)
     - [Ethics of AI(122)](/1.%20AI%20fundamentals/Ethics%20of%20AI.md)
 
-
 2. Intelligent Agents
+    - [Intelligent agents (6)](/2.%20Intelligent%20Agents/intelligent%20agents.md)
+    - [Rational Agents (14)](/2.%20Intelligent%20Agents/rational%20agents.md)
+    - [PEAS (21)](/2.%20Intelligent%20Agents/PEAS.md)
+    - [Types of environment (25)](/2.%20Intelligent%20Agents/types%20of%20environment.md)
+    - [Agent Function, Program and Architecture (33)](/2.%20Intelligent%20Agents/Agent%20Function%20Program%20and%20Architecture%20.md)
+    - [Table driven agents (37)](/2.%20Intelligent%20Agents/Table%20driven%20agents.md)
+    - [Types of agent(41)](/2.%20Intelligent%20Agents/Types%20of%20agent.md)
