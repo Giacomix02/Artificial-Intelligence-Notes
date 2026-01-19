@@ -26,3 +26,5 @@
     - [Agent Function, Program and Architecture (33)](/2.%20Intelligent%20Agents/Agent%20Function%20Program%20and%20Architecture%20.md)
     - [Table driven agents (37)](/2.%20Intelligent%20Agents/Table%20driven%20agents.md)
     - [Types of agent(41)](/2.%20Intelligent%20Agents/Types%20of%20agent.md)
+
+3. Recommender Systems
