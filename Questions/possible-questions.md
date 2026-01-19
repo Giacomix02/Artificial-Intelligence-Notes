@@ -9,7 +9,14 @@ The numbers are the slides number
 - What is Symbolic AI? Make examples (from 81 to 83)
 - Give a general description of Symbolic AI (from 81 to 87)
 - Give Prons and Cons of Symbolic AI (87)
-
+- What is machine learning? (89)
+- Describe the difference between Machine learning and symbolic AI (91)
+- Describe what is an artificial neural networks. What is the biological structure similar to? (from 92 to 95)
+- What refer the term Deep learning? (95)
+- What is connectionist AI? Explain Pro and Cons (from 97 to 98)
+- What is Neuro-symbolic AI? Explain the benefits and do examples (from 100 to 107)
+- from 108 to 116 see [this questions (2 AI agents)](#2-ai-agents)  
+- Make examples of some subfields of AI (from 118 to 122)
 
 # 2 AI agents
 
