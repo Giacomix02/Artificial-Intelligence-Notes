@@ -44,18 +44,7 @@ The numbers are the slides number
 # 5 Knowledge Representation
 - What is ontology and how it used for? (from 1 to 47)
 - How many basic Allen's interval relationships are there (excluding inverse relationships)? List these relationships, providing the formal definition for each one. (from 48 to 71 maybe)
-- Explain how supervised learning works and make some examples (from 20 to 21)
-- Explain how self-supervised learning works (22)
-- Which factors guide the selection of a model? Explain the correlation and the meaning of bias, variance, underfitting and overfitting (from 25 to 29, from 45 to 50)
-- What are the 3 dataset for a supervised learning task? And usually in what percentage are devided? (from 32 to 33)
-- How the cross-validation technique works? And when is it used? (34)
-- How Unsupervised learning work? What is its goal? Make some examples (36)
-- In Unsupervised learning explain what is the Clustering (37)
-- How Semisupervised learning work? What is its goal? (38)
-- How Reinforcement learning work? (39)
-- What is the goal of Representation learning? Make examples (41)
-- Explain the connection and meaning of Bias and Underfitting (from 45 to 46)
-- Explain the connection and meaning of Variance and Overfitting (from 47 to 49)
+
 
 
 # 6 Relational Algebra Extension
@@ -72,7 +61,18 @@ The numbers are the slides number
 - What is the goal of MAchine Learning? And how it works? (from 9 to 10)
 - In the context of Machine Learning, please specify the characteristics of classification and regression concepts, providing concrete examples for each. (11)
 - What is the difference between "Single-label" and "Multilabel"? And between "Binay" and "Multiclass"? Provide some examples (from 13 to 16)
-- 
+- Explain how supervised learning works and make some examples (from 20 to 21)
+- Explain how self-supervised learning works (22)
+- Which factors guide the selection of a model? Explain the correlation and the meaning of bias, variance, underfitting and overfitting (from 25 to 29, from 45 to 50)
+- What are the 3 dataset for a supervised learning task? And usually in what percentage are devided? (from 32 to 33)
+- How the cross-validation technique works? And when is it used? (34)
+- How Unsupervised learning work? What is its goal? Make some examples (36)
+- In Unsupervised learning explain what is the Clustering (37)
+- How Semisupervised learning work? What is its goal? (38)
+- How Reinforcement learning work? (39)
+- What is the goal of Representation learning? Make examples (41)
+- Explain the connection and meaning of Bias and Underfitting (from 45 to 46)
+- Explain the connection and meaning of Variance and Overfitting (from 47 to 49)
 
 # 10 Introduction to Neural Networks
 
