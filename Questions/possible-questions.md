@@ -24,12 +24,60 @@ The numbers are the slides number
 - Differences between Agent-based AI tasks and Non-agent-based AI tasks (from 12 to 13)
 - What is a rational agent? (15)
 - What PEAS mean? Make some examples (22)
-- Witch are the types of environments were an agent can be inside? (26)
+- Which are the types of environments were an agent can be inside? (26)
 - Random question about one or more types (from 27 to 32)
 - What is an agent function, an agent program and an agent architecture? An agent is a combination of... (from 34 to 35)
 - What is a table driven agent? And why is not a good way for create a complex agent? (from 37 to 39)
 - Describe briefly the 4 types of agents (41)
 - Random question about one of the types of agents, make an example (from 42 to 48)
 
-
 # 3 Recommender Systems
+- In the context of recommender systems, please specify the main features and drawbacks of content-based systems and collaborative filtering systems
+- Explain the hybrid approach in the context of recommender systems
+- How Google rank web pages?
+
+# 4 Basics of Knowledge Representation
+- What is a Knowledge representation and reasoning (KRR)? (4)
+- Explain the difference between Knowledge-based agents and problem-solving agents (from 5 to 6)
+- What is a Knowledge base and how is used in knowledge-based agent(KB)? (from 8 to 10)
+
+# 5 Knowledge Representation
+- What is ontology and how it used for? (from 1 to 47)
+- How many basic Allen's interval relationships are there (excluding inverse relationships)? List these relationships, providing the formal definition for each one. (from 48 to 71 maybe)
+- Explain how supervised learning works and make some examples (from 20 to 21)
+- Explain how self-supervised learning works (22)
+- Which factors guide the selection of a model? Explain the correlation and the meaning of bias, variance, underfitting and overfitting (from 25 to 29, from 45 to 50)
+- What are the 3 dataset for a supervised learning task? And usually in what percentage are devided? (from 32 to 33)
+- How the cross-validation technique works? And when is it used? (34)
+- How Unsupervised learning work? What is its goal? Make some examples (36)
+- In Unsupervised learning explain what is the Clustering (37)
+- How Semisupervised learning work? What is its goal? (38)
+- How Reinforcement learning work? (39)
+- What is the goal of Representation learning? Make examples (41)
+- Explain the connection and meaning of Bias and Underfitting (from 45 to 46)
+- Explain the connection and meaning of Variance and Overfitting (from 47 to 49)
+
+
+# 6 Relational Algebra Extension
+- ??
+
+# 7 Efficient Implementation of the Interval Relationships
+- ??
+
+# 8 An Interactive Framework for Video Surveillance Event Detection and Modeling
+- ??
+
+# 9 Introduction to Machine Learning
+- What is Machine Learning? And why use it? (from 4 to 7)
+- What is the goal of MAchine Learning? And how it works? (from 9 to 10)
+- In the context of Machine Learning, please specify the characteristics of classification and regression concepts, providing concrete examples for each. (11)
+- What is the difference between "Single-label" and "Multilabel"? And between "Binay" and "Multiclass"? Provide some examples (from 13 to 16)
+- 
+
+# 10 Introduction to Neural Networks
+
+# 11 LLM
+
+# 12 Design of a Video Surveillance Framework that leverages VLM and ISEQL
+
+# 13 VLMs in Medicine
