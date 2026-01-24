@@ -94,6 +94,16 @@ The numbers are the slides number, taken from pdf reader, and not the pdf enumer
 
 
 # 11 LLM
+- What is an LLM, why LLMs are so important and what are capable of? (from 2 to 5)
+- What is the difference between LLMs and generative AI? Make an example of LLM (from 7 to 8)
+- How can I use an LLM? (from 9 to 14)
+- How does an LLM work? (from 15 to 17)
+- How are LLMs trained? (18)
+- What are LLM parameters and what is the context windows? (from 21 to 22)
+- What are the major challenges facing LLMs? (from 23 to 26)
+- What is the future of LLMs? (28)
+- Do LLMs understand language? Are LLMsconscious? (from 31 to 32)
+
 
 # 12 Design of a Video Surveillance Framework that leverages VLM and ISEQL
 
