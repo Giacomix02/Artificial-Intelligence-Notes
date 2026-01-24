@@ -1,4 +1,4 @@
-The numbers are the slides number 
+The numbers are the slides number, taken from pdf reader, and not the pdf enumeration in bottom of the slides
 
 # 1 AI fundamentals
 - What is an AI system? Make examples (40)
@@ -75,6 +75,23 @@ The numbers are the slides number
 - Explain the connection and meaning of Variance and Overfitting (from 47 to 49)
 
 # 10 Introduction to Neural Networks
+- What is an Artificial neural networks and how it works? (from 4 to 5)
+- How we can describe a Neuron? How it works low level? (form 17 to 18)
+- What is a perceptron and how it work? How train it? (from 19 to 21)
+- In the context of the Perceptron, please describe the Rosenblatt heuristic training algorithm (from 23 to 26)
+- What is a Multilayer perceptron? How it works? (from 28 to 29)
+- What are input, output, and hidden layers in MLP? (30)
+- What is the matrix notation of the MLP? (from 32 to 33)
+- What is the overall function of a MLP? (34)
+- Multilayer perceptron (MLP): activation function must be nonlinear (35)
+- Why MLPs are also known as feedforward neural networks? (36)
+- Can we change the activatin function? Explain teh ReLu and the Softmax (from 38 to 43)
+- What is a Loss function? (from 46 to 48)
+- Explain what is and how is used the Gradient descent. What are its liminations? (from 48 to 49, 53)
+- How the gradient in MLPs is computed? Explain the chain rule and the backpropagation algorithm (from 50 to 52)
+- What is the minibatch stochastic gradient descent? How it works? (from 54 to 57)
+- What are the most common Loss functions? Describe shortly them (from 59 to 63)
+
 
 # 11 LLM
 
