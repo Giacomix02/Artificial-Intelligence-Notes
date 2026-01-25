@@ -1,4 +1,4 @@
-The numbers are the slides number, taken from pdf reader, and not the pdf enumeration in bottom of the slides.
+The numbers are the slides number, taken from pdf reader, and not the pdf enumeration in bottom of the slides. The highlighted parts are form the ufficial exam questions.
 
 # 1 AI fundamentals
 - What is an AI system? Make examples (40)
