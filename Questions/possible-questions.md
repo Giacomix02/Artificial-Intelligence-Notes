@@ -1,9 +1,9 @@
-The numbers are the slides number, taken from pdf reader, and not the pdf enumeration in bottom of the slides
+The numbers are the slides number, taken from pdf reader, and not the pdf enumeration in bottom of the slides.
 
 # 1 AI fundamentals
 - What is an AI system? Make examples (40)
 - What are the 2 main definitions of AI? Describe also the 4 combination of Humanity vs. rationality and Thought vs. behavior (from 41 to 42)
-- Describe how the Turing test is structured. What are the limitations of this test? (from 43 to 47)
+- ``Describe how the Turing test is structured. What are the limitations of this test? (from 43 to 47)``
 - Differences between General Intelligence and Narrow AI (75)
 - Differences between Strong AI and weak AI (76)
 - What is Symbolic AI? Make examples (from 81 to 83)
@@ -23,7 +23,9 @@ The numbers are the slides number, taken from pdf reader, and not the pdf enumer
 - What is and how works an intelligent agent? Make some examples (7)
 - Differences between Agent-based AI tasks and Non-agent-based AI tasks (from 12 to 13)
 - What is a rational agent? (15)
-- What PEAS mean? Make some examples (22)
+- ``In the context of designing an intelligent agent, please specify what the acronym
+PEAS means. Provide at least two examples of types of agents along with their basic
+PEAS descriptions. (22)``
 - Which are the types of environments were an agent can be inside? (26)
 - Random question about one or more types (from 27 to 32)
 - What is an agent function, an agent program and an agent architecture? An agent is a combination of... (from 34 to 35)
@@ -32,7 +34,7 @@ The numbers are the slides number, taken from pdf reader, and not the pdf enumer
 - Random question about one of the types of agents, make an example (from 42 to 48)
 
 # 3 Recommender Systems
-- In the context of recommender systems, please specify the main features and drawbacks of content-based systems and collaborative filtering systems
+- ``In the context of recommender systems, please specify the main features and drawbacks of content-based systems and collaborative filtering systems``
 - Explain the hybrid approach in the context of recommender systems
 - How Google rank web pages?
 
@@ -49,7 +51,7 @@ The numbers are the slides number, taken from pdf reader, and not the pdf enumer
 - Explain Disjoint and Physical composition (from 29 to 35)
 - What is a Bunch? (from 36 to 37)
 - Some objects can have differents definitions thats refears to the same object with little vaiations, how fix it? How Measures can be added? (from 38 to 47 )
-- How many basic Allen's interval relationships are there (excluding inverse relationships)? List these relationships, providing the formal definition for each one. (from 48 to 71 maybe)
+- ``How many basic Allen's interval relationships are there (excluding inverse relationships)? List these relationships, providing the formal definition for each one. (from 48 to 71 maybe)``
 
 # 6 Relational Algebra Extension
 - What is an EQL? (8)
@@ -65,7 +67,7 @@ The numbers are the slides number, taken from pdf reader, and not the pdf enumer
 # 9 Introduction to Machine Learning
 - What is Machine Learning? And why use it? (from 4 to 7)
 - What is the goal of MAchine Learning? And how it works? (from 9 to 10)
-- In the context of Machine Learning, please specify the characteristics of classification and regression concepts, providing concrete examples for each. (11)
+- ``In the context of Machine Learning, please specify the characteristics of classification and regression concepts, providing concrete examples for each. (11)``
 - What is the difference between "Single-label" and "Multilabel"? And between "Binay" and "Multiclass"? Provide some examples (from 13 to 16)
 - Explain how supervised learning works and make some examples (from 20 to 21)
 - Explain how self-supervised learning works (22)
@@ -84,7 +86,7 @@ The numbers are the slides number, taken from pdf reader, and not the pdf enumer
 - What is an Artificial neural networks and how it works? (from 4 to 5)
 - How we can describe a Neuron? How it works low level? (form 17 to 18)
 - What is a perceptron and how it work? How train it? (from 19 to 21)
-- In the context of the Perceptron, please describe the Rosenblatt heuristic training algorithm (from 23 to 26)
+- ``In the context of the Perceptron, please describe the Rosenblatt heuristic training algorithm (from 23 to 26)``
 - What is a Multilayer perceptron? How it works? (from 28 to 29)
 - What are input, output, and hidden layers in MLP? (30)
 - What is the matrix notation of the MLP? (from 32 to 33)
@@ -112,5 +114,7 @@ The numbers are the slides number, taken from pdf reader, and not the pdf enumer
 
 
 # 12 Design of a Video Surveillance Framework that leverages VLM and ISEQL
+- ??
 
 # 13 VLMs in Medicine
+- ??
