@@ -42,13 +42,19 @@ The numbers are the slides number, taken from pdf reader, and not the pdf enumer
 - What is a Knowledge base and how is used in knowledge-based agent(KB)? (from 8 to 10)
 
 # 5 Knowledge Representation
-- What is ontology and how it used for? (from 1 to 47)
+- What is ontology and how it used for? (from 1 to 12)
+- What are General-purpose Ontologies, describe theris two major characteristics (from 15 to 20)
+- What is a Category in the ontology? What is Reification and Inheritance? (from 21 to 25)
+- Explain the Taxonomic hierarchy (from 26 to 28)
+- Explain Disjoint and Physical composition (from 29 to 35)
+- What is a Bunch? (from 36 to 37)
+- Some objects can have differents definitions thats refears to the same object with little vaiations, how fix it? How Measures can be added? (from 38 to 47 )
 - How many basic Allen's interval relationships are there (excluding inverse relationships)? List these relationships, providing the formal definition for each one. (from 48 to 71 maybe)
 
-
-
 # 6 Relational Algebra Extension
-- ??
+- What is an EQL? (8)
+- How Iseql externd the Allen's interval relationships? (from 10 to 14)
+- Allen‘s versus ISEQL Interval Relationships (32)
 
 # 7 Efficient Implementation of the Interval Relationships
 - ??
